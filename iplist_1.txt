@@ -51,6 +51,7 @@
 35.224.0.0/12	#bc.googleusercontent.com
 35.240.0.0/13	#bc.googleusercontent.com
 35.252.0.0/14	#bc.googleusercontent.com
+45.86.86.0/24
 45.136.151.0/24
 45.224.164.0/22
 46.245.164.0/24
