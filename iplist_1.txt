@@ -1,6 +1,7 @@
 #Email spammer
 103.108.228.0/24
 103.177.250.0/24
+103.171.86.0/24
 103.188.77.0/24
 136.107.0.0/16 #bc.googleusercontent.com
 136.108.0.0/14 #bc.googleusercontent.com
@@ -19,8 +20,10 @@
 194.62.122.0/24
 198.38.86.0/24
 198.50.30.0/24
+2.27.107.0/24
 203.128.0.0/24
 216.139.64.0/24
+216.189.19.0/24
 34.0.0.0/15	#bc.googleusercontent.com
 34.2.0.0/16	#bc.googleusercontent.com
 34.3.0.0/23	#bc.googleusercontent.com
