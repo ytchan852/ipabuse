@@ -2,6 +2,9 @@
 103.108.228.0/24
 103.177.250.0/24
 103.188.77.0/24
+136.107.0.0/16 #bc.googleusercontent.com
+136.108.0.0/14 #bc.googleusercontent.com
+136.112.0.0/13 #bc.googleusercontent.com
 143.0.164.0/22
 143.244.89.0/24
 158.247.18.0/24
@@ -18,8 +21,32 @@
 198.50.30.0/24
 203.128.0.0/24
 216.139.64.0/24
-34.0.0.0/8
-35.0.0.0/8
+34.0.0.0/15	#bc.googleusercontent.com
+34.2.0.0/16	#bc.googleusercontent.com
+34.3.0.0/23	#bc.googleusercontent.com
+34.3.3.0/24	#bc.googleusercontent.com
+34.3.4.0/24	#bc.googleusercontent.com
+34.3.8.0/21	#bc.googleusercontent.com
+34.3.16.0/20	#bc.googleusercontent.com
+34.3.32.0/19	#bc.googleusercontent.com
+34.3.64.0/18	#bc.googleusercontent.com
+34.4.0.0/14	#bc.googleusercontent.com
+34.8.0.0/13	#bc.googleusercontent.com
+34.16.0.0/12	#bc.googleusercontent.com
+34.32.0.0/11	#bc.googleusercontent.com
+34.64.0.0/10	#bc.googleusercontent.com
+34.128.0.0/10	#bc.googleusercontent.com
+35.184.0.0/13	#bc.googleusercontent.com
+35.192.0.0/14	#bc.googleusercontent.com
+35.196.0.0/15	#bc.googleusercontent.com
+35.198.0.0/16	#bc.googleusercontent.com
+35.199.0.0/17	#bc.googleusercontent.com
+35.199.128.0/18	#bc.googleusercontent.com
+35.200.0.0/13	#bc.googleusercontent.com
+35.208.0.0/12	#bc.googleusercontent.com
+35.224.0.0/12	#bc.googleusercontent.com
+35.240.0.0/13	#bc.googleusercontent.com
+35.252.0.0/14	#bc.googleusercontent.com
 45.136.151.0/24
 45.224.164.0/22
 46.245.164.0/24
